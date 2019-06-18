@@ -68,9 +68,6 @@ int main() {
    currObj = headObj;                // Count number of negative numbers
    while (currObj != nullptr) {
 
-      /* Your solution goes here  */
-     
-      /* Your solution goes here  */
       if (currObj->GetDataVal() < 0)
       {
          negativeCntr ++;
